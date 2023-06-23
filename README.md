@@ -5,10 +5,10 @@ Honey Rae Repairs is a project aimed at providing a comprehensive platform for m
 
 ## Features
 - **User Registration**: Users can create an account to access the platform.
-- **Repair Requests**: Users can submit repair requests, providing details such as the type of repair needed, location, and any additional notes.
-- **Service Provider Directory**: A directory of service professionals is available, allowing users to find and select the right expert for their repair needs.
-- **Scheduling and Notifications**: Users and service providers can schedule appointments and receive notifications about upcoming repairs.
-- **Task Management**: Service professionals can manage their repair tasks, update their status, and mark tasks as completed.
+- **Repair Requests**: Customers can create a ticket for a service and toggle between emergency or not emergency, they can also search through their tickets and view open tickets or all tickets.
+- **View Tickets**: Employees can view all tickets or toggle to see only emergency tickets.
+- **Customer List**: Employees can view a list of all customers and click on individual customers to see further details.
+-**Employee List**: Employees can view a list of all Emoloyees and click on individual employees to see further details.
 
 ## Technologies Used
 - Front-end: HTML, CSS, JavaScript, React
