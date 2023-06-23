@@ -1,0 +1,24 @@
+.employees {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    background-color: black;
+}
+.employee {
+    border: 3px solid white;
+    background-color: rgb(166, 230, 214);
+    padding: 5px;
+}
+
+.EmployeeDetails {
+    background-color: black;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: space-evenly;
+}
+
+.EmployeeDetails *{
+    background-color: rgb(166, 230, 214);
+    border: 3px solid white;
+    padding: 5px;
+}
